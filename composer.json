@@ -1,5 +1,5 @@
 {
-    "name": "laravist/hasher",
+    "name": "maokeyang/hasher",
     "description": "MD5 support in laravel",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Laravist\\Hasher\\": "src/"
+            "Maokeyang\\Hasher\\": "src/"
         }
     }
 }

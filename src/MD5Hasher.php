@@ -1,10 +1,10 @@
 <?php
 
-namespace Laravist\Hasher;
+namespace Maokeyang\Hasher;
 
 /**
  * Class MD5Hasher
- * @package Laravist\Hasher
+ * @package Maokeyang\Hasher
  */
 class MD5Hasher
 {
