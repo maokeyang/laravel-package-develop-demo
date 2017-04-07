@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/maokeyang/laravel-package-develop-demo.svg?branch=master)](https://travis-ci.org/maokeyang/laravel-package-develop-demo)
+
 ## Laravel扩展开发
 
 ### 安装扩展
